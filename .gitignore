@@ -1,0 +1,13 @@
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+.idea/
+.vscode/
+build/
+android/.gradle/
+android/local.properties
+ios/Pods/
+# Widget Preview related
+.widget_preview/
